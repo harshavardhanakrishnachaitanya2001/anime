@@ -22,6 +22,7 @@ function Navbar(){
                     <li><Link href='/attackontitan'>Attack on Titan</Link></li>
                     <li><Link href='/detectiveschoolq'>Detective school Q</Link></li>
                     <li><Link href='/thetimeigotreincarnatedasaslime'>The time I got reincarnated into a slime</Link></li>
+                    <li><Link href='/bleach'><a>Bleach</a></Link></li>
                 </ul>
             </nav>
         </div>
