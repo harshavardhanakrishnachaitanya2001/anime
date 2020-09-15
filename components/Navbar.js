@@ -18,6 +18,7 @@ function Navbar(){
                     <li><Link href='/deathnote'><a>Death Note</a></Link></li>
                     <li><Link href='/naruto'><a>Naruto</a></Link></li>
                     <li><Link href='/attackontaitan'>Attack on Taitan</Link></li>
+                    <li><Link href='/thetimeigotreincarnatedintoaslime'>The time I got reincarnated into a slime</Link></li>
                 </ul>
             </nav>
         </div>
