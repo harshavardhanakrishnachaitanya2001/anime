@@ -13,6 +13,7 @@ function naruto(){
                         color:black;
                         background-color:orange;
                         text-align:center;
+                        margin-top:0px;
                     }
                     img{
                         margin-left:25px;
@@ -29,7 +30,7 @@ function naruto(){
                 `}
             </style>
             <h1>Naruto</h1>
-            <p style={{marginLeft:'15px'}}>Naruto is the anime which potrays the struggle that a ninja (shinobi) goes through to full fill his 
+            <p style={{marginLeft:'15px', fontSize:'1.5rem'}}>Naruto is the anime which potrays the struggle that a ninja (shinobi) goes through to full fill his 
             dream to becom the head of the village (Hokage). This anime has a beautiful moral to 'never give up no matter the what'. The 
             art work done by the artists in this anime is extrodinory. All the emotions are perfectly potraied. I highly recommand people 
             visiting this site to watch Naruto</p>
