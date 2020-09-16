@@ -1,9 +1,9 @@
-import Link from 'next/link'
 import Head from 'next/head'
 function naruto(){
     return (
         <div>
             <Head>
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
                 <title>Naruto</title>
             </Head>
             <style jsx>
@@ -15,45 +15,88 @@ function naruto(){
                         text-align:center;
                         margin-top:0px;
                     }
-                    img{
-                        margin-left:25px;
-                        height:200px;
-                        margin-bottom:5px;
-                        cursor:pointer;
-                    }
                     h5{
                         margin-left:25px;
                     }
-                    .naruto{
-                        margin-left:25px;
-                    }
+                    img{
+                margin-top:0px;
+                margin-left:50px;
+                height:200px;
+            }
+            h5{
+                margin-left:50px;
+            }
                 `}
             </style>
             <h1>Naruto</h1>
             <p style={{marginLeft:'15px', fontSize:'1.5rem'}}>Naruto is the anime which potrays the struggle that a ninja (shinobi) goes through to full fill his 
             dream to becom the head of the village (Hokage). This anime has a beautiful moral to 'never give up no matter the what'. The 
-            art work done by the artists in this anime is extrodinory. All the emotions are perfectly potraied. I highly recommand people 
-            visiting this site to watch Naruto</p>
-            <Link href='narutoDetails/naruto'><img src='/naruto.jpg' alt='Naruto Uzumaki'/></Link>
-            <h5>Naruro Uzumaki</h5>
-            <Link href='narutoDetails/sasuke'><img src='/sasuke.png' alt= 'Sasuke Uchiha'/></Link>
-            <h5>Sasuke Uchiha</h5>
-            <Link href='narutoDetails/sakura'><img src='/sakura.jpg' alt='Sakura Haruno'/></Link>
-            <h5>Sakura Haruno</h5>
-            <Link href='narutoDetails/kakashi'><img src='/kakashi.jpg' alt='Kakashi Hatake'/></Link>
-            <h5>Kakashi Hatake</h5>
-            <Link href='narutoDetails/minato'><img src='/Minato.png' alt='Minato Namikaze'/></Link>
-            <h5>Minato Namikaze</h5>
-            <Link href='narutoDetails/iruka'><img src='/Iruka.png' alt='Iruka Umino'/></Link>
-            <h5>Iruka Umino</h5>
-            <Link href='narutoDetails/itachi'><img src='/Itachi.jpg' alt='Itachi Uchiha'/></Link>
-            <h5>Itachi Uchiha</h5>
-            <Link href='narutoDetails/jiraiya'><img src='/Jiraiya.jpg' alt='Jiraiya'/></Link>
-            <h5>Jiraiya</h5>
-            <Link href='narutoDetails/tsunade'><img src='/Tsunade.jpg' alt='Tsunade Senju'/></Link>
-            <h5>Tsunade Senju</h5>
-            <Link href='narutoDetails/orochimaru'><img src='/Orochimaru.jpg' alt='Orochimaru'/></Link>
-            <h5>Orochimaru</h5>
+            art work done by the artists in this anime is extrodinory. All the emotions are perfectly potraied. In this anime, characters have 
+            powers which come through chakras in their bodies. All the characters have their own powers and  distinct personalities.</p>
+            <h2 style={{textAlign:'center'}}>characters:</h2>
+            <div className='row'>
+                <div>
+                    <img src='/narutoImages/naruto.jpg' alt='Naruto Uzumaki'/>
+                    <h5>Naruto Uzumaki: Nine tails <br />jinchuriki</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/Sasuke.png' alt='Sasuke Uchiha'/>
+                    <h5>Sasuke: Rogue ninja</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/sakura.jpg' alt='Sakura Haruno'/>
+                    <h5>Sakura Haruno: Medical ninja</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/kakashi.jpg' alt='Kakashi Hatake'/>
+                    <h5>Kakashi Hatake: Teacher to<br /> team 7</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/Minato.png' alt='Minato Namikaze'/>
+                    <h5>Minato Namikaze: Fourth <br />Hokage</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/Jiraiya.jpg' alt='Jiraiya'/>
+                    <h5>Jiraiya: Lagendry Sanin</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/thirdhokage.jpg' alt='Sarutobi Hiruzen'/>
+                    <h5>Sarutobi Hiruzen: Third <br />Hokage</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/Tsunade.jpg' alt='Tsunade Senju'/>
+                    <h5>Tsunade Senju: Fifth Hokage</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/Orochimaru.jpg' alt='Orochimaru'/>
+                    <h5>Orochimaru: Konoha's <br />Scientist</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/Itachi.jpg' alt='Itachi Uchiha'/>
+                    <h5>Itachi Uchiha: Hidden <br />protector of konoha</h5>
+                </div>
+
+                <div>
+                    <img src='/narutoImages/KillerB.png' alt='KillerB'/>
+                    <h5>KillerB: 8 Tails jinchuriki</h5>
+                </div>
+
+                <div>
+                    <img src='narutoImages/Gara.jpg' alt='Gara'/>
+                    <h5>Gara: One tail jinchuriki</h5>
+                </div>
+
+
+            </div>
         </div>
     )
 }
