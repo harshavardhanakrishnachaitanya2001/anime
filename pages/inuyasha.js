@@ -27,6 +27,7 @@ function inuyasha(){
         </style>
         <Head>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+        <title>Inuyasha</title>
         </Head>
         <h1>Inuyasha</h1>
         <p style={{marginLeft:'15px'}}>
@@ -115,6 +116,11 @@ function inuyasha(){
             <div>
                 <img src='/InuyashaCharacters/onigumo.jpg' alt='Onigumo'/>
                 <h5>Onigumo: Before becoming <br />Naraku</h5>
+            </div>
+
+            <div>
+                <img src='/InuyashaCharacters/kaede.jpg' alt='Kaede'/>
+                <h5>Kaede: Village head</h5>
             </div>
 
         </div>
