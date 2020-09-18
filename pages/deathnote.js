@@ -35,7 +35,7 @@ function deathnote(){
             <div className='row'>
                 <div>
                     <img src='DeathNote/Light.jpg' alt='Light Yagami'/>
-                    <h5>Light Yagami: Protagonist/Antagonist</h5>
+                    <h5>Light Yagami: Protagonist</h5>
                 </div>
 
                 <div>
