@@ -7,7 +7,8 @@ function inuyasha(){
                 background-color:red;
                 color:white;
                 text-align:center;
-                margin-top:0px;
+                margin:0;
+                padding:0;
             }
             p{
                 font-size:1.5rem;
