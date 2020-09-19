@@ -9,15 +9,18 @@ function inuyasha(){
                 text-align:center;
                 margin:0;
                 padding:0;
+                font-weight:bolder;
             }
             p{
                 font-size:1.5rem;
             }
             h2{
                 text-align:center;
+                font-weight:bold;
             }
             h5{
                 margin-left:60px;
+                font-weight:bold;
             }
             img{
                 margin-top:0px;

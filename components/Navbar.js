@@ -12,6 +12,13 @@ function Navbar(){
                     margin-bottom:0;
                     background-color:#D3D3D3;
                 }
+                a:link{
+                    text-decoration:none;
+                }
+                a:hover{
+                    background-color:gray;
+                    color:black;
+                }
                 `}
             </style>
             <nav>

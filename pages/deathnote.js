@@ -10,6 +10,7 @@ function deathnote(){
                     text-align:center;
                     margin-top:0;
                     padding-top:0;
+                    font-weight:bolder;
                 }
                 img{
                     margin-left:25px;
@@ -31,7 +32,7 @@ function deathnote(){
             a world where only good people (whom he judges to be good) reside, he slowly gets converted into the antagonist. The name of 
             this antagonist is Light yagami. How Light plans to kill people and how the japanese police capture Light is what you have to find 
             out by watching this anime. This anime is a must watch for the people of all the ages.</p>
-            <h2 style={{textAlign:'center'}}><b>Characters:</b></h2>
+            <h2 style={{textAlign:'center', fontWeight:'bold'}}><b>Characters:</b></h2>
             <div className='row'>
                 <div>
                     <img src='DeathNote/Light.jpg' alt='Light Yagami'/>

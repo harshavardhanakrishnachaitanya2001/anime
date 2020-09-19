@@ -14,9 +14,7 @@ function naruto(){
                         background-color:orange;
                         text-align:center;
                         margin-top:0px;
-                    }
-                    h5{
-                        margin-left:25px;
+                        font-weight:bolder;
                     }
                     img{
                 margin-top:0px;
@@ -25,6 +23,7 @@ function naruto(){
             }
             h5{
                 margin-left:50px;
+                font-weight:bold;
             }
                 `}
             </style>
@@ -33,7 +32,7 @@ function naruto(){
             dream to becom the head of the village (Hokage). This anime has a beautiful moral to 'never give up no matter the what'. The 
             art work done by the artists in this anime is extrodinory. All the emotions are perfectly potraied. In this anime, characters have 
             powers which come through chakras in their bodies. All the characters have their own powers and  distinct personalities.</p>
-            <h2 style={{textAlign:'center'}}>characters:</h2>
+            <h2 style={{textAlign:'center', fontWeight:'bold'}}>characters:</h2>
             <div className='row'>
                 <div>
                     <img src='/narutoImages/naruto.jpg' alt='Naruto Uzumaki'/>
