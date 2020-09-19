@@ -35,7 +35,7 @@ function inuyasha(){
         </Head>
         <h1>Inuyasha</h1>
         <p style={{marginLeft:'15px'}}>
-            Inuyasha is a fudal fery tale which did not gain as much popularity as Nruto, but I personally loved the anime. In this anime, 
+            Inuyasha is a fudal fery tale which did not gain as much popularity as Naruto, but I personally love the anime. In this anime, 
             the protagonist is a half demon born to a human and a demon. In this anime, you will find cool action, halorious comedy, 
             hart warming emotions and romance. The male protagonist and the female protagonist in this anime are from two different worlds 
             This is a must watch anime for all the youth.
