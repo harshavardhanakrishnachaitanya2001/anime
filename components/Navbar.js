@@ -10,6 +10,7 @@ function Navbar(){
                     justify-content:space-around;
                     padding:0;
                     margin-bottom:0;
+                    background-color:#D3D3D3;
                 }
                 `}
             </style>

@@ -28,9 +28,9 @@ function deathnote(){
             </Head>
             <h1>DeathNote</h1>
             <p style={{marginLeft:'15px', fontSize:'1.5rem'}}>Death Note is about a smart teenager leaving in japan. In the hopes of creating
-            a world where only good people (whom he judges to be good), he slowly gets converted into the antagonist. The name of this antagonist 
-            is Light yagami. How Light plans to kill people and how the japanese police capture Light is what you have to find out by watching this 
-            anime. This anime is a must watch for the people of all the ages.</p>
+            a world where only good people (whom he judges to be good) reside, he slowly gets converted into the antagonist. The name of 
+            this antagonist is Light yagami. How Light plans to kill people and how the japanese police capture Light is what you have to find 
+            out by watching this anime. This anime is a must watch for the people of all the ages.</p>
             <h2 style={{textAlign:'center'}}><b>Characters:</b></h2>
             <div className='row'>
                 <div>
