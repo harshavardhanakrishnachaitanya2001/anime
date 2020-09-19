@@ -17,7 +17,7 @@ function Navbar(){
                 }
                 a:hover{
                     background-color:gray;
-                    color:black;
+                    color:white;
                 }
                 `}
             </style>
