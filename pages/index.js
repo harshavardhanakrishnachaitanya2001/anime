@@ -22,7 +22,7 @@ export default function Home() {
         </h1>
         <p className={styles.description}>
           This is a site created using nextjs, which tells the anime I love to watch. To be frank these are this site shows you the anime 
-          I watch every now and then to remove my stress and relax for a bit. I recommand the viewers of this site to watch these amazing 
+          I watch every now and then to remove my stress and relax for a bit. I recommend the viewers of this site to watch these amazing 
           anime to become stress free.
         </p>
 
