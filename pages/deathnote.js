@@ -25,6 +25,7 @@ function deathnote(){
             </style>
             <Head>
                 <title>Death Note</title>
+                <link rel='icon' href='/DeathNote/DeathNote.jpg'/>
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
             </Head>
             <h1>DeathNote</h1>

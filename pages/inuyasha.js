@@ -32,6 +32,7 @@ function inuyasha(){
         <Head>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
         <title>Inuyasha</title>
+        <link rel='icon' href='/InuyashaCharacters/Inuyasha.png'/>
         </Head>
         <h1>Inuyasha</h1>
         <p style={{marginLeft:'15px'}}>
